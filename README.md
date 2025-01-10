@@ -9,7 +9,7 @@ In this project, we will analyse customer-level data which has been collected an
 
 The dataset is taken from the [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) website and it has a total of 2,84,807 transactions, out of which 492 are fraudulent. Since the dataset is highly imbalanced, so it needs to be handled before model building.
 
-#Understanding and Defining Fraud
+## Understanding and Defining Fraud
 Credit card fraud is any dishonest act and behaviour to obtain information without the proper authorization from the account holder for financial gain. Among different ways of frauds, Skimming is the most common one, which is the way of duplicating of information located on the magnetic strip of the card. Apart from this, the other ways are:
 
 Manipulation/alteration of genuine cards
@@ -17,7 +17,7 @@ Creation of counterfeit cards
 Stolen/lost credit cards
 Fraudulent telemarketing
 
-#The DataSet
+## The DataSet
 
 The dataset can be download using this [link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
